@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/6utPOvo.png">
+<img src='https://i.imgur.com/6utPOvo.png'>
 
 # dev-environment-lab
 
